@@ -1,5 +1,10 @@
 {
     "themeOneFeatureSection": {
+        "preHeading": "Premium",
+        "preHeadingspan": "Features",
+        "heading": "What Makes sApp Different?",
+        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
         "featureData": [
             {
               "id": 1,
