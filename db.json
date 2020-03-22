@@ -1,0 +1,118 @@
+{
+    "themeOneFeatureSection": {
+        "featureData": [
+            {
+              "id": 1,
+              "image": "assets/img/icon/featured-img/layers.png",
+              "title": "Fully functional",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+            },
+            {
+              "id": 2,
+              "image": "assets/img/icon/featured-img/speak.png",
+              "title": "Live Chat",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+            },
+            {
+              "id": 3,
+              "image": "assets/img/icon/featured-img/lock.png",
+              "title": "Secure Data",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+            }
+        ]
+    },
+    "themeOneServiceSection": {
+        "serviceData": [
+            {
+                "id": 1,
+                "iconClass": "fab fa-buffer",
+                "text": "Fully layered dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+            },
+            {
+                "id": 2,
+                "iconClass": "fas fa-brush",
+                "text": "Customizable design dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+            },
+            {
+                "id": 3,
+                "iconClass": "fas fa-burn",
+                "text": "Drop ipsum dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+            },
+            {
+                "id": 4,
+                "iconClass": "fas fa-cart-arrow-down",
+                "text": "Marketing chart dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+            }
+        ]
+    },
+    "themeOneDiscoverSection": {
+        "discoverData": [
+            {
+                "id": 1,
+                "iconClass": "fas fa-check",
+                "text": "Combined with a handful of model sentence structures looks reasonable."
+            },
+            {
+                "id": 2,
+                "iconClass": "fas fa-check",
+                "text": "Contrary to popular belief, Lorem Ipsum is not simply random text."
+            },
+            {
+                "id": 3,
+                "iconClass": "fas fa-check",
+                "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium."
+            },
+            {
+                "id": 4,
+                "iconClass": "fas fa-check",
+                "text": "All the Lorem Ipsum generators on the Internet tend to repeat necessary."
+            }
+        ]
+    },
+    "themeOneWorkSection": {
+        "workData": [
+            {
+                "id": 1,
+                "image": "assets/img/icon/work/download.png",
+                "title": "Install the App",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
+            },
+            {
+                "id": 2,
+                "image": "assets/img/icon/work/settings.png",
+                "title": "Setup your profile",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
+            },
+            {
+                "id": 3,
+                "image": "assets/img/icon/work/app.png",
+                "title": "Enjoy the features!",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
+            }
+        ]
+    },
+    "themeOneScreenshotSection": {
+        "screenshotData": [
+            {
+                "id": 1,
+                "image": "assets/img/screenshots/1.jpg"
+            },
+            {
+                "id": 2,
+                "image": "assets/img/screenshots/2.jpg"
+            },
+            {
+                "id": 3,
+                "image": "assets/img/screenshots/3.jpg"
+            },
+            {
+                "id": 4,
+                "image": "assets/img/screenshots/4.jpg"
+            },
+            {
+                "id": 5,
+                "image": "assets/img/screenshots/5.jpg"
+            }
+        ]
+    }
+}
