@@ -54,6 +54,8 @@
         ]
     },
     "themeOneDiscoverSection": {
+        "heading": "Easily communicate with clients using sApp.",
+        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique dolor ut iusto vitae autem neque eum ipsam, impedit asperiores vel cumque laborum dicta repellendus inventore voluptatibus et explicabo nobis unde.",
         "discoverData": [
             {
                 "id": 1,
@@ -74,6 +76,20 @@
                 "id": 4,
                 "iconClass": "fas fa-check",
                 "text": "All the Lorem Ipsum generators on the Internet tend to repeat necessary."
+            }
+        ],
+        "discoverIcon": [
+            {
+                "id": 1,
+                "iconClass": "fas fa-bell"
+            },
+            {
+                "id": 2,
+                "iconClass": "fas fa-envelope-open"
+            },
+            {
+                "id": 3,
+                "iconClass": "fas fa-video"
             }
         ]
     },
