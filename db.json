@@ -117,30 +117,6 @@
             }
         ]
     },
-    "themeOneScreenshotSection": {
-        "screenshotData": [
-            {
-                "id": 1,
-                "image": "assets/img/screenshots/1.jpg"
-            },
-            {
-                "id": 2,
-                "image": "assets/img/screenshots/2.jpg"
-            },
-            {
-                "id": 3,
-                "image": "assets/img/screenshots/3.jpg"
-            },
-            {
-                "id": 4,
-                "image": "assets/img/screenshots/4.jpg"
-            },
-            {
-                "id": 5,
-                "image": "assets/img/screenshots/5.jpg"
-            }
-        ]
-    },
     "themeOneReviewSection": {
         "iconClass": "far fa-lightbulb text-primary mr-1",
         "preHeading": "Customer's",
