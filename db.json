@@ -128,6 +128,22 @@
             {
                 "id": 1,
                 "iconClass": "fas fa-star text-warning"
+            },
+            {
+                "id": 2,
+                "iconClass": "fas fa-star text-warning"
+            },
+            {
+                "id": 3,
+                "iconClass": "fas fa-star text-warning"
+            },
+            {
+                "id": 4,
+                "iconClass": "fas fa-star text-warning"
+            },
+            {
+                "id": 5,
+                "iconClass": "fas fa-star text-warning"
             }
         ],
         "reviewData": [
