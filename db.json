@@ -140,5 +140,45 @@
                 "image": "assets/img/screenshots/5.jpg"
             }
         ]
+    },
+    "themeOneReviewSection": {
+        "iconClass": "far fa-lightbulb text-primary mr-1",
+        "preHeading": "Customer's",
+        "preHeadingspan": "Reviews",
+        "heading": "What our customers are saying",
+        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "reviewIcon": [
+            {
+                "id": 1,
+                "iconClass": "fas fa-star text-warning"
+            }
+        ],
+        "reviewData": [
+            {
+                "id": 1,
+                "comments": "Excellent service & support!!",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis nam id facilis, provident doloremque placeat eveniet molestias laboriosam. Optio, esse.","quotImage": "assets/img/icon/quote.png",
+                "avatorImg": "assets/img/avatar/avatar-1.png",
+                "reviewer": "Junaid Hasan",
+                "reviewerTag": "CEO, Themeland"
+            },
+            {
+                "id": 2,
+                "comments": "Nice work! Keep it up",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis nam id facilis, provident doloremque placeat eveniet molestias laboriosam. Optio, esse.","quotImage": "assets/img/icon/quote.png",
+                "avatorImg": "assets/img/avatar/avatar-2.png",
+                "reviewer": "Jassica William",
+                "reviewerTag": "SEO Expert, Themeland"
+            },
+            {
+                "id": 3,
+                "comments": "Excellent service & support!!",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis nam id facilis, provident doloremque placeat eveniet molestias laboriosam. Optio, esse.","quotImage": "assets/img/icon/quote.png",
+                "avatorImg": "assets/img/avatar/avatar-3.png",
+                "reviewer": "Md. Arham",
+                "reviewerTag": "Developer, Themeland"
+            }
+        ]
     }
 }
