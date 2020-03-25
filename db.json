@@ -27,6 +27,9 @@
         ]
     },
     "themeOneServiceSection": {
+        "heading": "Make your Device Manage Everything For you",
+        "buttonText": "Learn More",
+        "image": "assets/img/features/thumb-1.png",
         "serviceData": [
             {
                 "id": 1,
