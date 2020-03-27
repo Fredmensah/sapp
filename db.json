@@ -67,8 +67,10 @@
     },
     "themeOneServiceSection": {
         "heading": "Make your Device Manage Everything For you",
+        "headingTwo": "Share your photos with friends easily",
         "buttonText": "Learn More",
-        "image": "assets/img/features/thumb-1.png",
+        "thumbOne": "assets/img/features/thumb-1.png",
+        "thumbTwo": "assets/img/services/thumb-2.png",
         "serviceData": [
             {
                 "id": 1,
@@ -96,6 +98,8 @@
         "heading": "Easily communicate with clients using sApp.",
         "headingTwo": "Work faster with powerful tools.",
         "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique dolor ut iusto vitae autem neque eum ipsam, impedit asperiores vel cumque laborum dicta repellendus inventore voluptatibus et explicabo nobis unde.",
+        "thumbOne": "assets/img/discover/iphone_x.png",
+        "thumbTwo": "assets/img/discover/thumb-2.png",
         "discoverData": [
             {
                 "id": 1,
