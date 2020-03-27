@@ -3,6 +3,7 @@
         "preHeading": "Premium",
         "preHeadingspan": "Features",
         "heading": "What Makes sApp Different?",
+        "headingTwo": "Explore Premium Features",
         "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
         "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
         "featureData": [
@@ -23,6 +24,44 @@
               "image": "assets/img/icon/featured-img/lock.png",
               "title": "Secure Data",
               "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+            }
+        ],
+        "featureDataTwo": [
+            {
+                "id": 1,
+                "iconClass": "flaticon-tap",
+                "title": "Fully functional",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+            },
+            {
+                "id": 2,
+                "iconClass": "flaticon-fingerprint",
+                "title": "Fingerprint Data",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+            },
+            {
+                "id": 3,
+                "iconClass": "flaticon-notification",
+                "title": "Tap Notification",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+            },
+            {
+                "id": 4,
+                "iconClass": "flaticon-place",
+                "title": "Location Tracking",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+            },
+            {
+                "id": 5,
+                "iconClass": "flaticon-settings",
+                "title": "Powerful Settings",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+            },
+            {
+                "id": 6,
+                "iconClass": "flaticon-language",
+                "title": "Multiple Language",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
             }
         ]
     },
