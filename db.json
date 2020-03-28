@@ -92,11 +92,15 @@
         "headingTwo": "Share your photos with friends easily",
         "headingThree": "Smart and secure mobile banking",
         "headingFour": "More productivity with less effort",
+        "headingFive": "Organize all your media content easily",
+        "headingSix": "Work faster with powerful filters",
         "buttonText": "Learn More",
         "thumbOne": "assets/img/features/thumb-1.png",
         "thumbTwo": "assets/img/services/thumb-2.png",
         "thumbThree": "assets/img/welcome/welcome-mockup-2.png",
         "thumbFour": "assets/img/discover/iphone_x.png",
+        "thumbFive": "assets/img/services/thumb-1.png",
+        "thumbSix": "assets/img/discover/thumb-3.png",
         "serviceData": [
             {
                 "id": 1,
