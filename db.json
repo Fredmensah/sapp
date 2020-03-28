@@ -4,8 +4,10 @@
         "preHeadingspan": "Features",
         "heading": "What Makes sApp Different?",
         "headingTwo": "Explore Premium Features",
+        "headingThree": "Why Small Business Owner's Loves sApp",
         "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
         "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "featureThumb": "assets/img/features/thumb-1.png",
         "featureData": [
             {
               "id": 1,
@@ -24,7 +26,25 @@
               "image": "assets/img/icon/featured-img/lock.png",
               "title": "Secure Data",
               "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
-            }
+            },
+            {
+                "id": 4,
+                "image": "assets/img/icon/featured-img/support.png",
+                "title": "Easy to Customize",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+              },
+              {
+                "id": 5,
+                "image": "assets/img/icon/featured-img/seo-and-web.png",
+                "title": "Responsive Design",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+              },
+              {
+                "id": 6,
+                "image": "assets/img/icon/featured-img/code.png",
+                "title": "Help Documentation",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+              }
         ],
         "featureDataTwo": [
             {
