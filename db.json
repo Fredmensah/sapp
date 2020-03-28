@@ -8,24 +8,6 @@
         "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
         "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
         "featureThumb": "assets/img/features/thumb-1.png",
-        "featureImage": [
-            {
-                "id": 1,
-                "image": "assets/img/screenshots/1.jpg"
-            },
-            {
-                "id": 2,
-                "image": "assets/img/screenshots/2.jpg"
-            },
-            {
-                "id": 3,
-                "image": "assets/img/screenshots/3.jpg"
-            },
-            {
-                "id": 4,
-                "image": "assets/img/screenshots/4.jpg"
-            }
-        ],
         "featureData": [
             {
               "id": 1,
