@@ -26,21 +26,23 @@
               "image": "assets/img/icon/featured-img/lock.png",
               "title": "Secure Data",
               "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
-            },
+            }
+        ],
+        "featureData_1": [
             {
-                "id": 4,
+                "id": 1,
                 "image": "assets/img/icon/featured-img/support.png",
                 "title": "Easy to Customize",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
               },
               {
-                "id": 5,
+                "id": 2,
                 "image": "assets/img/icon/featured-img/seo-and-web.png",
                 "title": "Responsive Design",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
               },
               {
-                "id": 6,
+                "id": 3,
                 "image": "assets/img/icon/featured-img/code.png",
                 "title": "Help Documentation",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
