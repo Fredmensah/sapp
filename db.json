@@ -8,7 +8,7 @@
         "headingFour": "Why choose sApp?",
         "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
         "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
-        "featureThumb": "assets/img/features/thumb-1.png",
+        "featureThumb": "/img/features_thumb.png",
         "featureData": [
             {
               "id": 1,
